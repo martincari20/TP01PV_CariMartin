@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		int n1=5,n2=2,n3=7,n4=18,n5=1;
 		
-		double promedio = (double) (n1+n2+n3+n4+n5)/5;
+		double promedio = (double) (n1+n2+n3+n4+n5)/5;//conversion explícita
 		
 		System.out.println(n1+", "+n2+", "+n3+", "+n4+", "+n5);
 		System.out.println("El promedio es: "+promedio);
